@@ -1,0 +1,38 @@
+.title{ 
+    text-align: center;
+
+}
+
+.main{
+    text-align: center;
+}
+
+button{
+    color: white;
+  background-color: black;
+  border-radius: 50px;
+  padding: 5px 5px;
+  font-size: medium;
+
+ 
+}
+
+.main2{
+    text-align: center;
+    
+    
+}
+
+.main3{
+    text-align: center;
+}
+
+.defaut{
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 50px;
+    border: none;
+    padding: 5px 5px;
+    font-size: medium;
+
+}
